@@ -34,11 +34,11 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "ELEONORE GOIRE"
@@ -49,11 +49,11 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Mons", url = "http://www.umons.ac.be" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Foret-basseterre.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Eleonore.GOIRE@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0XX.XX.XX.XX"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -66,7 +66,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "logo.png"
+  logo = "foret.jpg"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
