@@ -14,6 +14,7 @@ weight = 5
     "Ornamental fish-keeping"
   ]
 
+
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
 #  course = "Master in BBMC/BOE"
@@ -24,11 +25,6 @@ weight = 5
 #  course = "Bachelor in Biology"
 #  institution = "University of Mons, Belgium"
 #  year = 2021
-
-[[education.courses]]
-  course = "Greek Sciences"
-  institution = "Collège Notre-Dame de la Tombe de Kain"
-  year = 2017
 
 +++
 
